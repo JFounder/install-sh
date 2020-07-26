@@ -1,4 +1,5 @@
 sh-шники для всяких установок
+Есть в CDN
 ### Download
 ```sh
 curl -sS https://raw.githubusercontent.com/tufounder/install-sh/master/download.sh | sudo bash
