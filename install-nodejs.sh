@@ -2,8 +2,8 @@
 
 sudo apt-get -y update
 
-# Node v12
-curl -sL https://deb.nodesource.com/setup_12.x | sudo bash
+# Node v14
+curl -sL https://deb.nodesource.com/setup_14.x | sudo bash
 
 sudo apt-get install -y nodejs
 
